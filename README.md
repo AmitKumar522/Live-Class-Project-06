@@ -13,4 +13,5 @@ By Amit Kumar
 #### Honest time to finish this project;
 - It almost take's 2hr to understand and build this beautiful landing page.
  ## Screenshots
+ 
  ![](https://img.shields.io/badge/Project-06-yellowgreen)
